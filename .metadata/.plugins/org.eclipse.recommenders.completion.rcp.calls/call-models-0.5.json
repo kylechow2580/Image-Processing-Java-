@@ -1,0 +1,12 @@
+{
+  "/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/jre/lib/rt.jar": {
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/jre/lib/rt.jar",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/jre/lib/rt.jar\u0027. Skipped."
+  },
+  "/Users/Kyle/Desktop/Java File/testing/src": {
+    "location": "/Users/Kyle/Desktop/Java File/testing/src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027/Users/Kyle/Desktop/Java File/testing/src\u0027. Skipped."
+  }
+}

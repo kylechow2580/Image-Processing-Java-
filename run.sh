@@ -1,0 +1,2 @@
+javac ImageProcesserTesting.java
+java ImageProcesserTesting
